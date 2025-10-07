@@ -4,7 +4,7 @@ Desarrollador de software con un gran interés. Me encanta construir cosas nueva
 
 Este es mi perfil profesional, donde puedes ver mis proyectos más serios. Para mis trabajos y tareas del curso, puedes visitar mi perfil secundario.
 
-**🔗 Mi Perfil Académico:** [PeterLuna14 (Cuenta de Tareas)](https://github.com/PeterLuna14)
+**🔗 Mi Perfil Académico:** [PeterLuna14](https://github.com/PeterLuna14)
 
 ---
 
