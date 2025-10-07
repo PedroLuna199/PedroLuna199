@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Pedro Luna
 
-Desarrollador de software con un gran interés en [Menciona un área, ej: desarrollo web, aplicaciones móviles, etc.]. Me encanta construir cosas nuevas y estoy siempre en busca de aprender y mejorar mis habilidades.
+Desarrollador de software con un gran interés. Me encanta construir cosas nuevas y estoy siempre en busca de aprender y mejorar mis habilidades.
 
 Este es mi perfil profesional, donde puedes ver mis proyectos más serios. Para mis trabajos y tareas del curso, puedes visitar mi perfil secundario.
 
