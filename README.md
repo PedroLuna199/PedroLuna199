@@ -24,7 +24,7 @@ Cuando no estoy programando, me encontrarás explorando otros mundos.
 * **Videojuegos:** Me apasionan los videojuegos, especialmente los géneros de [Tu género favorito, ej: RPG, estrategia, etc.]. Siempre estoy buscando completar logros y descubrir nuevas historias.
     * **Juego Favorito Actual:** [Nombre de tu juego favorito]
 
-* **Música:** La música es mi compañera constante. Disfruto de una gran variedad de géneros, pero principalmente escucho a artistas como Twenty One Pilots.
+* **Música:** La música es mi compañera constante. Disfruto de una gran variedad de géneros, pero principalmente escucho Rock, mis artistas favoritos son: twenty one pilots y Queen.
     > "En Trench no estoy solo."
 
 ---
